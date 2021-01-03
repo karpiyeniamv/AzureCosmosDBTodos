@@ -3,6 +3,7 @@
 Задание: реализовать CRUD операции для таблицы в базе CosmosDB (с использованием NodeJS)
 
 Таблица Items в базе DBTodos: 
+
 {
     "title": "replace_with_new_document_id",
     "completed": false,
